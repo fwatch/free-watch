@@ -11,8 +11,8 @@
 // @run-at         document-body
 // @author         free-watch
 // @grant          GM_xmlhttpRequest
-// @version        1.0
-// @icon           https://raw.githubusercontent.com/fwatch/free-watch/aee7ee3b296c3fb4016b5e7eb705cc2e837a1356/icon.png
+// @version        1.1
+// @icon           https://raw.githubusercontent.com/fwatch/free-watch/refs/heads/main/icon.png
 // ==/UserScript==
 
 /*
